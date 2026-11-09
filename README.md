@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW12bXo2Z3hwdjNwdjU3eWdxN3V0aHJ4bHRscWRiOHV4cnp1cG05ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kL1yyzpJwee3ef6a6K/giphy.gif" width="30" />
- Hi, I'm Samar! 👩🏻
+Hello and Welcome 👋, I'm Samar! 👩🏻
 </h1>
 
 <p align="center">
